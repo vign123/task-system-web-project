@@ -1,0 +1,1 @@
+ It allows users to create, delete, and organize tasks based on their priorities and deadlines. This application aims to provide a user-friendly interface that can be accessed from any device, ensuring seamless task management across different platforms

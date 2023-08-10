@@ -1,0 +1,8 @@
+1)Task Creation: Users can add tasks with a title, description, and due date.
+2)Task Organization: Tasks can be categorized into different lists or tags, allowing users to group related tasks together.
+3)Task Deletion: Users can easily delete tasks that are no longer needed.
+4)Task Priority: Users can assign priority levels to tasks to highlight their importance.
+5)Task Sorting: Users can sort tasks based on due date, priority, or alphabetical order to organize their to-do list efficiently.
+6)Task Search: Users can search for specific tasks using keywords or tags to quickly locate and manage them.
+8)Task Completion: Users can mark tasks as complete, providing a visual indication of progress.
+9)Responsive Design: The application is designed to be responsive and compatible with different devices and screen sizes.
